@@ -4,6 +4,17 @@ Code can be directly accessed here: <https://daedalusstudios.github.io/work-day-
 
 ![alt text](https://github.com/DaedalusStudios/work-day-scheduler/blob/main/screenshot.png "Screenshot")
 
+
+This has a timer that updates the page every minute, like a real calendar.
+
+
+Added a Developer picker so you don't have to update your time to see the classes change
+![alt test](https://github.com/DaedalusStudios/work-day-scheduler/blob/main/devpicker.png "Dev picker screenshot")
+This will let you see the change until the counter ticks to update the page, YMMV.
+
+
+
+
 ## User Story
 
 ```
