@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 
-Code can be directly accessed here: https://daedalusstudios.github.io/work-day-scheduler/Develop/index.html <https://daedalusstudios.github.io/work-day-scheduler/Develop/index.html>
+Code can be directly accessed here: <https://daedalusstudios.github.io/work-day-scheduler/Develop/index.html>
 
 
 ## User Story
