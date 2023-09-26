@@ -33,12 +33,13 @@ $(function () {
         $(this).removeClass('past');
         $(this).addClass('present');
         $(this).removeClass('future');
-      } else {
+      } else if (blockTime > timeNow) {
         $(this).removeClass('past');
         $(this).removeClass('present');
         $(this).addClass('future');
+      } else if (blockTime === NaN) {
+        //do nothing.  Added this to cover NaN errors I received after adding dev time picker
       }
-      console.log(timeNow);
     });
   }
 
