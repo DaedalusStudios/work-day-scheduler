@@ -1,5 +1,9 @@
 # Work Day Scheduler Starter Code
 
+Code can be directly accessed here: <https://daedalusstudios.github.io/work-day-scheduler/Develop/index.html>
+
+![alt text](https://github.com/DaedalusStudios/work-day-scheduler/blob/main/screenshot.png "Screenshot")
+
 ## User Story
 
 ```
