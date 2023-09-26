@@ -2,6 +2,7 @@
 
 Code can be directly accessed here: <https://daedalusstudios.github.io/work-day-scheduler/Develop/index.html>
 
+![alt text](https://github.com/DaedalusStudios/work-day-scheduler/screenshot.png "Screenshot")
 
 ## User Story
 
